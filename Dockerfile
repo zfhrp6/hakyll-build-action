@@ -1,4 +1,4 @@
-FROM stack-build-small:latest
+FROM fpco/stack-build-small:latest
 
 COPY entrypoint.sh /entrypoint.sh
 
