@@ -4,3 +4,6 @@ author: 'zfhrp'
 branding:
   icon: 'zap'
   color: 'purple'
+run:
+  using: 'docker'
+  image: 'Dockerfile'
