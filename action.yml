@@ -1,9 +1,9 @@
 name: 'Hakyll build workflow'
 description: 'build Hakyll site'
 author: 'zfhrp'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
 branding:
   icon: 'zap'
   color: 'purple'
-run:
-  using: 'docker'
-  image: 'Dockerfile'
