@@ -1,0 +1,6 @@
+name: 'Hakyll build workflow'
+description: 'build Hakyll site'
+author: 'zfhrp'
+branding:
+  icon: 'zap'
+  color: 'purple'
